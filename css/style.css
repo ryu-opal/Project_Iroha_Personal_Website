@@ -53,8 +53,13 @@ body, html {
     margin-top: -10%; 
 } 
 
-.iroha-container h1{ 
+.iroha-container-content{ 
     align-self: center; 
     margin-left: 80%; 
-    
+    display: flex;
 } 
+
+.main-sub-box{ 
+    display: flex; 
+    
+}
